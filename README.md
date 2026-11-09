@@ -55,7 +55,7 @@ haystack-rag-app/
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone https://github.com/labintsev/haystack-rag-app.git
+   git clone https://github.com/Lordounos/haystack-rag-app_gui.git
    cd haystack-rag-app
    ```
 
