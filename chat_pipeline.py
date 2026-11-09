@@ -50,7 +50,7 @@ text_embedder = SentenceTransformersTextEmbedder(model=embedder_model)
 # Создать ретривер, генератор чата и построитель подсказки
 retriever = InMemoryEmbeddingRetriever(document_store, top_k=3)
 chat_generator = OllamaChatGenerator(
-    model="gemma3:4b", url="http://127.0.0.1:11434"
+    model="gemma3:1b", url="http://127.0.0.1:11434"
 )
 
 prompt_builder = ChatPromptBuilder(template=template, required_variables=["question"])
