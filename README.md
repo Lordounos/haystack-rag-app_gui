@@ -1,10 +1,3 @@
-# README.md для проекта Haystack RAG
-
-Вот обновлённая версия README с учётом GUI (Flet), обоих пайплайнов, требований к Ollama и структуры проекта.
-
-```markdown
-# Приложение Haystack RAG
-
 Учебный проект, демонстрирующий системы **Retrieval-Augmented Generation (RAG)**
 на базе фреймворка [Haystack](https://haystack.deepset.ai/).
 
